@@ -1,0 +1,140 @@
+
+html{
+    background-color: #EDF2C5;
+    max-width: 1135px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+.container{
+    display: flex;
+    align-items: baseline;
+}
+.container img{
+    padding-inline: 10px;
+
+}
+
+.aside-left{
+    width:55%;
+     font-size: 16px;
+   
+   
+}
+.aside-left h4{
+    width: 80%; 
+    padding: 15px 43px 15px 20px ;
+    background-color: #778A50;
+    color: #EDF2C5;
+    border-radius: 3px;
+
+}
+.aside-right{
+    width:45%;
+    padding-block: 10px;
+   
+}
+.aside-right h4{
+    width: auto;
+    padding: 15px 0px 15px 20px;
+    background-color: #778A50;
+    color: #EDF2C5;
+    border-radius: 3px;
+
+
+}
+.aside-right p{
+    background-color: #F7FBDA;
+    margin: 0%;
+    text-align: left;
+    padding-inline: 15px;
+    padding-bottom: 12px;
+    color: #7D7D7D;
+    font-family: "Arial";
+
+    
+}
+.contact-border{
+    border-bottom-style:solid ;
+    border-width: 0.5px;
+}
+
+
+.header{
+    display:flex;
+    align-items: flex-end;
+}
+.header-text{
+    padding: 3px;
+    border-style:  solid;
+    border-radius: 3px;
+    color: #778A50;
+    margin-inline: 3px;
+    border-width: 1px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+
+}
+.facebook{
+width: 1.2em;
+height:1.2em;
+padding-inline: 10px;
+margin-block: 20px;
+border-style: none;
+}
+.instagram{
+    width: 1.2em;
+    height:1.2em;
+    padding-right: 25px;
+    margin-block: 20px;
+    border-style: none;
+    border-radius: 0px;
+    border-right-style: solid;
+    }
+
+
+.vegetables{
+    padding-right: 750px;
+    color:#778A50;
+    border: 0;
+    margin: auto;
+}
+.nav{
+    display:flex; 
+    width: 50%;
+    justify-content:space-between;
+
+    
+    padding:15px 542px ;
+    padding-left: 20px;
+
+    margin-bottom: 10px;
+    background-color: #778A50;
+    
+
+}
+
+a {   
+    font-weight: bolder;
+    color:#EDF2C5 ;    
+    text-decoration: none;
+
+
+}
+
+footer {
+    background-color: #778A50;
+    padding: 5px 0px;
+    margin-top: 20px;
+    text-align: center;   
+     color: #EDF2C5;
+     font-family: "Arial";
+}
+
+
