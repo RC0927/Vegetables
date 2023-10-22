@@ -1,11 +1,14 @@
 
 html{
     background-color: #EDF2C5;
+    
+    
+}
+.box{
     max-width: 1135px;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Noto Sans', sans-serif;
-    
 }
 
 .container{
@@ -130,11 +133,16 @@ a {
 
 footer {
     background-color: #778A50;
-    padding: 5px 0px;
+    padding: 15px 5px;
     margin-top: 20px;
     text-align: center;   
      color: #EDF2C5;
      font-family: "Arial";
-}
+     margin-top: 117px;
+    
+    }
 
+    body{
+        margin: 0;
+    }
 
